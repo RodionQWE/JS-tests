@@ -1,0 +1,11 @@
+{
+  "name": "playwright-codespace",
+  "version": "1.0.0",
+  "description": "Playwright project in Codespaces",
+  "scripts": {
+    "test": "npx playwright test"
+  },
+  "devDependencies": {
+    "@playwright/test": "^1.41.1"
+  }
+}
